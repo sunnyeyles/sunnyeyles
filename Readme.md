@@ -1,4 +1,3 @@
-Sunny
 &nbsp;&nbsp;**_About me_**
 
 - Learning web development at [DCI]("https://digitalcareerinstitute.org/")

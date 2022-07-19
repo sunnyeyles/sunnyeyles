@@ -1,5 +1,3 @@
-# Hi, I'm Sunny &nbsp;:wave:
-
 &nbsp;&nbsp;**_About me_**
 
 - Australian living in Berlin &nbsp; :earth_africa:
